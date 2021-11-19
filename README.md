@@ -27,7 +27,7 @@ The structure of the database can be seen below:
 1️⃣ Fork and clone this project into your local directory and open the project in an IDE.
 ####
 2️⃣ To configure the MySQL DBMS, provide the database URL and password, and username in the project directory.
-<a href="https://github.com/Andruwa808/cinema-app/src/main/resources/db.properties">resources/db.properties</a>.
+<a href="https://github.com/Andruwa808/cinema-app/blob/master/src/main/resources/db.properties">resources/db.properties</a>.
 ####
 3️⃣ Configure Apache Tomcat
 ####
